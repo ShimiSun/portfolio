@@ -1,11 +1,8 @@
 import React from 'react';
 import { 
 Box, 
-Heading, 
-Grommet, 
+Heading,  
 ResponsiveContext,
-Anchor,
-Image,
 Grid,
 Paragraph
 } from 'grommet';
