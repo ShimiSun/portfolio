@@ -15,6 +15,7 @@ import image3 from '../images/home.png';
 const TopBanner = (props) => (
   <ResponsiveContext.Consumer>
   {size => (
+    /* Create landing banner that fills everything above the fold. */
     <Box
       background='banner'
       fill

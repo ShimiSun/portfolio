@@ -12,9 +12,6 @@ import Web from './Web';
 import Editorial from './Editorial';
 import Footer from './Footer';
 
-// import { BrowserRouter as Router, Route } from "react-router-dom";
-
-
 const theme = {
   global: {
     colors: {
@@ -39,6 +36,7 @@ class App extends React.Component {
   render() {
     return (
         <Grommet theme={theme} full>
+          {/* Integrate all components into main app. */}
           <Navigation />
           <TopBanner />
           <Intro />
