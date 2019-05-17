@@ -1,7 +1,6 @@
 import React from 'react';
 import {  
 Grommet, 
-ResponsiveContext,
 } from 'grommet';
 import Navigation from './Navigation';
 import Line from './Line';
