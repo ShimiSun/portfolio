@@ -2,10 +2,7 @@ import React from 'react';
 import { 
 Box, 
 Heading, 
-Grommet, 
 ResponsiveContext,
-Anchor,
-Image,
 Grid,
 Paragraph,
 } from 'grommet';
