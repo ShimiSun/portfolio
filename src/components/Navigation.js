@@ -4,7 +4,6 @@ Box,
 Heading, 
 ResponsiveContext,
 Anchor,
-Menu, 
 } from 'grommet';
 
 import MobileMenu from './MobileMenu';
