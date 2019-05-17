@@ -1,13 +1,7 @@
 import React from 'react';
 import { 
 Box, 
-Heading, 
-Grommet, 
-ResponsiveContext,
-Anchor,
-Image,
-Grid,
-Text,
+Heading,
 } from 'grommet';
 
 const Intro = (props) => (
